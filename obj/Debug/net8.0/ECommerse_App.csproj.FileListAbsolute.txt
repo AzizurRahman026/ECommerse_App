@@ -24,3 +24,16 @@ C:\Users\azizur\Learn\dotNet\ECommerse_App\ECommerse_App\obj\Debug\net8.0\refint
 C:\Users\azizur\Learn\dotNet\ECommerse_App\ECommerse_App\obj\Debug\net8.0\ECommerse_App.pdb
 C:\Users\azizur\Learn\dotNet\ECommerse_App\ECommerse_App\obj\Debug\net8.0\ECommerse_App.genruntimeconfig.cache
 C:\Users\azizur\Learn\dotNet\ECommerse_App\ECommerse_App\obj\Debug\net8.0\ref\ECommerse_App.dll
+C:\Users\azizur\Learn\dotNet\ECommerse_App\ECommerse_App\bin\Debug\net8.0\DnsClient.dll
+C:\Users\azizur\Learn\dotNet\ECommerse_App\ECommerse_App\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\azizur\Learn\dotNet\ECommerse_App\ECommerse_App\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\azizur\Learn\dotNet\ECommerse_App\ECommerse_App\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\azizur\Learn\dotNet\ECommerse_App\ECommerse_App\bin\Debug\net8.0\Snappier.dll
+C:\Users\azizur\Learn\dotNet\ECommerse_App\ECommerse_App\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\azizur\Learn\dotNet\ECommerse_App\ECommerse_App\obj\Debug\net8.0\ECommerse_App.csproj.AssemblyReference.cache
+C:\Users\azizur\Learn\dotNet\ECommerse_App\ECommerse_App\obj\Debug\net8.0\ECommerse_App.csproj.CopyComplete
+C:\Users\azizur\Learn\dotNet\ECommerse_App\ECommerse_App\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\azizur\Learn\dotNet\ECommerse_App\ECommerse_App\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\azizur\Learn\dotNet\ECommerse_App\ECommerse_App\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\azizur\Learn\dotNet\ECommerse_App\ECommerse_App\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\azizur\Learn\dotNet\ECommerse_App\ECommerse_App\obj\Debug\net8.0\ECommerse_App.MvcApplicationPartsAssemblyInfo.cs
